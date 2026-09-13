@@ -92,7 +92,8 @@ Click START to begin the matrix multiplication.
 Click CLEAR to reset the result.
 
 ## Output
-![Producer Consumer Output](Animation_output.gif)  
+
+<img src="Animation_output.gif" alt="Matrix_multiplication Output" width="500">
 
 
 
