@@ -91,5 +91,9 @@ The program will open a GUI window :
 Click START to begin the matrix multiplication.
 Click CLEAR to reset the result.
 
+## Output
+Animation_output.gif
+
+
 
 
