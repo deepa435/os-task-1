@@ -30,6 +30,17 @@ Using the Terminal:
  java ProducerConsumer
 ```
 
+## Sample Output
+```
+Produced: 1
+Buffer: [1]
+Produced: 2
+Buffer: [1, 2]
+Consumed: 1
+Buffer: [2] 
+...
+```
+
 ### 🔢 2. Multithreaded Matrix Multiplication
 
 **File:** `multithread_matrix.py`
@@ -91,8 +102,16 @@ The program will open a GUI window :
 Click START to begin the matrix multiplication.
 Click CLEAR to reset the result.
 
-## Output
-
+## Sample Output
+```
+Matrix multiplication completed
+Matrix A : (100, 100)
+Matrix B : (100, 100)
+Matrix C : (100, 100)
+Threads  : 4
+Time     : 0.94 seconds
+```
+## Animation Output
 <img src="Animation_output.gif" alt="Matrix_multiplication Output" width="500">
 
 
